@@ -2,7 +2,7 @@
 
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
-node index.js --action="list" ![list](./assets/listContacts.jpg)
+node index.js --action="list" https://monosnap.com/file/YQD4IGrOBzgaAUwBWdAxAv9rLRRK0g
 
 # Отримуємо контакт по id
 
